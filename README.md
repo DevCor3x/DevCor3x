@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152b,100:0b3d91&height=150&section=header&text=DeVvv77777&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated blue header" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06152b,100:0b3d91&height=150&section=header&text=DevCor3x&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated blue header" />
 
 👋 Hey, I'm Dev
 
@@ -210,8 +210,8 @@ Web, Database & Tools
 
 📊 GitHub Status
 
-<div align="center"> <a href="https://github.com/DeVvv77777">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeVvv77777&theme=tokyonight" alt="Dev's GitHub profile details" />
+<div align="center"> <a href="https://github.com/DevCor3x">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCor3x&theme=tokyonight" alt="Dev's GitHub profile details" />
 </a>
 
 
@@ -219,7 +219,7 @@ Web, Database & Tools
 
 
 
-<img src="https://streak-stats.demolab.com/?user=DeVvv77777&theme=tokyonight&hide_border=true" alt="Dev's GitHub contribution streak" /> </div> <div align="center">
+<img src="https://streak-stats.demolab.com/?user=DevCor3x&theme=tokyonight&hide_border=true" alt="Dev's GitHub contribution streak" /> </div> <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:0b1f3a,100:000000&height=3&section=header" alt="Blue section divider" />
 </div>
 
